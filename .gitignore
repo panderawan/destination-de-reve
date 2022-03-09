@@ -11,7 +11,18 @@
 # production
 /build
 
+### VisualStudioCode ###
+/vscode/*
+/.vscode/*
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 # misc
+
 .DS_Store
 .env.local
 .env.development.local
